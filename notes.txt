@@ -1,0 +1,9 @@
+saas-dashboard/
+├── src/
+│   ├── app/
+│   │   ├── core/
+│   │   ├── features/
+│   │   ├── shared/
+│   │   └── app.config.ts
+│   └── styles/
+└── package.json
